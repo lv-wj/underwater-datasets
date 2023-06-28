@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<opencv_storage>
+   <matlab_cameraMatrixL type_id="opencv-matrix">
+      <rows>3</rows>
+      <cols>3</cols>
+      <dt>f</dt>
+      <data>2004.170064 0.000000 1017.169737 0.000000 1502.837991 569.337987 0.000000 0.000000 1.000000 </data>
+   </matlab_cameraMatrixL>
+</opencv_storage>
